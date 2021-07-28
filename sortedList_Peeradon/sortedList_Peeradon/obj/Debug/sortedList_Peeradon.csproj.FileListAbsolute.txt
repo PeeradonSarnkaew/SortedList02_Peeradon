@@ -1,0 +1,15 @@
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\bin\Debug\sortedList_Peeradon.exe.config
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\bin\Debug\sortedList_Peeradon.exe
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\bin\Debug\sortedList_Peeradon.pdb
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\sortedList_Peeradon.csprojAssemblyReference.cache
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\MainWindow.g.cs
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\App.g.cs
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\sortedList_Peeradon_MarkupCompile.cache
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\sortedList_Peeradon_MarkupCompile.lref
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\MainWindow.baml
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\sortedList_Peeradon.g.resources
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\sortedList_Peeradon.Properties.Resources.resources
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\sortedList_Peeradon.csproj.GenerateResource.cache
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\sortedList_Peeradon.csproj.CoreCompileInputs.cache
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\sortedList_Peeradon.exe
+C:\Users\Peeradon\Desktop\เขียนC#เถอะครับ\sortedList_Peeradon\sortedList_Peeradon\obj\Debug\sortedList_Peeradon.pdb
